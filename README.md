@@ -14,6 +14,6 @@ The project encompasses several key steps:
 -  Disease and Treatment Identification: Employing the trained NER model to map diseases to their probable treatments within the dataset.
   
 ## Technologies Used
-spaCy: For POS tagging and tokenization.
-sklearn-crfsuite: For building and evaluating the CRF model.
-Python
+-  spaCy: For POS tagging and tokenization.
+-  sklearn-crfsuite: For building and evaluating the CRF model.
+-  Python
